@@ -208,15 +208,10 @@ function App() {
     console.log("Cost: ", totalCostWei);
     console.log("Gas limit: ", totalGasLimit);
   
-    /*if(CONFIG.WhiteList)
-	{
-	  if(!CONFIG.WL_User)
-	  {
-		setFeedback(`your not whitelist...`);	
-	    return;
-	  }
-	
-	}*/
+
+	setFeedback(`soon...wait...`);	
+	return;
+
 	
 	
 	// store input numbers
