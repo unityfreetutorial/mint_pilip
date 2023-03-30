@@ -1,0 +1,23 @@
+{
+  "CONTRACT_ADDRESS": "0x452Fc55Cf2338e3b8Bc2B3AC87CAC998f164ba40",
+  "SCAN_LINK": "https://etherscan.io/token/0x452Fc55Cf2338e3b8Bc2B3AC87CAC998f164ba40",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "BABYMIGOS",
+  "SYMBOL": "BMN",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 2000000000000000,
+  "DISPLAY_COST": 0.002,
+  "GAS_LIMIT": 150000,
+  "FreeMint": 0,
+  "WhiteList": false,
+  "WL_User": false,
+  "BalanceAccount": 0,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/babymigos",
+  "Twitter_LINK": "https://twitter.com/BABYMIGOSNFT",
+  "SHOW_BACKGROUND": true
+}
