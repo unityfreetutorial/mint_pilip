@@ -405,14 +405,15 @@ function App() {
                 <s.TextTitle
                   style={{ textAlign: "center", color: "var(--accent-Texttype1)" }}
                 >
-                  NFT MINT PRICE: {CONFIG.DISPLAY_COST}{" "}
-                  {CONFIG.NETWORK.SYMBOL}
+                  NFT MINT PRICE: 
+				  
+       
                 </s.TextTitle>
                 <s.SpacerXSmall />
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  
+                  1 Free 3$ after
                 </s.TextDescription>
                 <s.SpacerSmall />
                 {blockchain.account === "" ||
