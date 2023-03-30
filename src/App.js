@@ -208,10 +208,6 @@ function App() {
     console.log("Cost: ", totalCostWei);
     console.log("Gas limit: ", totalGasLimit);
   
-
-	setFeedback(`soon...wait...`);	
-	return;
-
 	
 	
 	// store input numbers
